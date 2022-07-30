@@ -11,8 +11,7 @@
  <img align="center" alt="gbri-dev-html" height="30" width ="40" src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor">
  <img align="center" alt="gbri-dev-css" height="30" width ="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
  <img align="center" alt="gbri-dev-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- <img align="center" alt="gbri-dev-mysql" height="30" width ="40" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=currentColor">
- <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" align="center" width="40" height="30"/>
+ <img align="center" alt="gbri-dev-spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
  <a href="https://www.php.net" target="_blank"><img align="center" width="40" height="30" alt="php" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"/></a>
  <img align="center" alt="gbri-dev-java" height="30" width ="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
  <a href="https://getbootstrap.com/" target="_blank"><img align="center" alt="gbri-dev-bootstrap" height="30" width ="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" /></a>
