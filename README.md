@@ -9,8 +9,10 @@
  ##
  
 <div style="display: inline_block"> 
- <img align="center" alt="gbri-dev-csharp" height="30" width ="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg" />          
- <img align="center" alt="gbri-dev-jquery" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" />                  
+ <img align="center" alt="gbri-dev-csharp" height="30" width ="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg" /> 
+ <img align="center" alt="gbri-dev-postgresql" height="30" width ="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+ <img align="center" alt="gbri-dev-vue" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" /> 
+ <img align="center" alt="gbri-dev-react" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
 </div> 
  
  ##
