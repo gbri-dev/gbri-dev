@@ -6,17 +6,19 @@
   </a>
 </div>
 
- ##
- 
-<div style="display: inline_block"> 
- <img align="center" alt="gbri-dev-dotnet" height="30" width ="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" /> 
- <img align="center" alt="gbri-dev-typescript" height="30" width ="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" />
- <img align="center" alt="gbri-dev-vue" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" /> 
- <img align="center" alt="gbri-dev-react" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
- <img align="center" alt="gbri-dev-postgresql" height="30" width ="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
- <img align="center" alt="gbri-dev-docker" height="30" width ="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
-</div> 
- 
+### 🚀 Tecnologias
+
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img height="40" src="https://nestjs.com/img/logo-small.svg" />
+  <img height="40" src="https://raw.githubusercontent.com/colinhacks/zod/master/logo.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+</div>
+
  ##
  
 <div> 
