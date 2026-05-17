@@ -37,9 +37,3 @@
 - 🐳 Contêineres com **Docker**
 - 📦 Validação com **Zod**
 - 🎯 Sempre buscando escrever código limpo, escalável e bem arquitetado
-
-## 🐍 Snake de Contribuições
-
-![Snake animation](https://raw.githubusercontent.com/gbri-dev/gbri-dev/output/github-contribution-grid-snake-dark.svg)
-
-
