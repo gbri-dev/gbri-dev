@@ -1,3 +1,4 @@
+<h1 align="center">👋 Olá, Sejá bem vindo!</h1>
 <p align="center">
   Desenvolvedor focado em criar soluções modernas, performáticas e escaláveis.<br/>
   Trabalho principalmente com <strong>TypeScript, NestJS, Vue, Nuxt e PostgreSQL</strong>.
@@ -11,7 +12,7 @@
  <img align="center" alt="gbri-dev-zod" height="40" width="40" src="https://raw.githubusercontent.com/colinhacks/zod/master/logo.svg" />
  <img align="center" alt="gbri-dev-vue" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
  <img align="center" alt="gbri-dev-nuxt" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" />
- <img align="center" alt="gbri-dev-tailwind" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+ <img align="center" alt="gbri-dev-tailwind" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" />
  <img align="center" alt="gbri-dev-postgresql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
  <img align="center" alt="gbri-dev-docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 </div>
