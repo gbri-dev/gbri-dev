@@ -32,7 +32,7 @@
 
 - 💻 Desenvolvedor fullstack com foco em **TypeScript**
 - 🧱 Backend com **NestJS**
-- 🎨 Frontend com **Vue 3 + Nuxt**
+- 🎨 Frontend com **Vue 3 + Nuxt + Tailwindcss**
 - 🐘 Banco de dados com **PostgreSQL**
 - 🐳 Contêineres com **Docker**
 - 📦 Validação com **Zod**
