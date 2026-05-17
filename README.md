@@ -3,19 +3,6 @@
   Trabalho principalmente com <strong>TypeScript, NestJS, Vue, Nuxt e PostgreSQL</strong>.
 </p>
 
----
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <a href="https://github.com/gbri-dev/">
-    <img height="180em" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=gbri-dev&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=gbri-dev&layout=compact&langs_count=10&theme=github_dark" />
-  </a>
-</div>
-
----
-
 ## 🚀 Tecnologias
 
 <div style="display: inline_block"><br>
@@ -29,8 +16,6 @@
  <img align="center" alt="gbri-dev-docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 </div>
 
----
-
 ## 📬 Contato
 
 <div>
@@ -42,8 +27,6 @@
   </a>
 </div>
 
----
-
 ## ✨ Sobre mim
 
 - 💻 Desenvolvedor fullstack com foco em **TypeScript**
@@ -53,8 +36,6 @@
 - 🐳 Contêineres com **Docker**
 - 📦 Validação com **Zod**
 - 🎯 Sempre buscando escrever código limpo, escalável e bem arquitetado
-
----
 
 ## 🐍 Snake de Contribuições
 
